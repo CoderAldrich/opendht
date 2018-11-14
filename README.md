@@ -118,5 +118,7 @@ See COPYING or https://www.gnu.org/licenses/gpl-3.0.en.html for the full GPLv3 l
 This project was originally based on https://github.com/jech/dht by Juliusz Chroboczek.
 It is independent from another project called OpenDHT (Sean Rhea. Ph.D. Thesis, 2005), now extinct.
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Qp19EXmEGgM&index=2&list=LLlWXuIfYEO-rEYVw3p0h0RA&t=0s" frameborder="0" allowfullscreen></iframe>
+
 ## Donations
 We gratefully accept Bitcoin donations to support OpenDHT development at: `bitcoin:3EykSd1An888efq4Bq3KaV3hJ3JQ4FPnwm`.
